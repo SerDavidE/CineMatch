@@ -13,7 +13,7 @@
 
 ## Introduction
 
-WBSFLIX is a renowned DVD store situated in a quaint town near Berlin. As the digital era beckons, WBSFLIX is transitioning to an online platform. With this shift, there's a pressing need for an automated yet personalized movie recommendation engine. This repository is dedicated to the development of diverse movie recommender algorithms tailored for the WBSFLIX online platform.
+WBSFLIX is a fictional DVD store situated in a quaint town near Berlin. As the digital era beckons, WBSFLIX is transitioning to an online platform. With this shift, there's a pressing need for an automated yet personalized movie recommendation engine. This repository is dedicated to the development of diverse movie recommender algorithms tailored for the WBSFLIX online platform.
 
 ## Project Overview
 
