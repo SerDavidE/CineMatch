@@ -6,10 +6,9 @@
 3. [Data](#data)
 4. [Technologies Used](#technologies-used)
 5. [Methodologies](#methodologies)
-6. [How to Run the Project](#how-to-run-the-project)
-7. [Results](#results)
-8. [Future Work](#future-work)
-9. [License](#license)
+6. [Results](#results)
+7. [Future Work](#future-work)
+8. [License](#license)
 
 ## Introduction
 
