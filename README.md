@@ -40,14 +40,6 @@ The project boasts an array of recommender system methodologies, which include:
 3. **Collaborative Filtering**: This advanced method, facilitated by the Surprise library, hinges on the SVD (Singular Value Decomposition) technique to offer collaborative recommendations.
 4. **Hybrid Systems**: An amalgamation of the aforementioned methods, aiming to provide a more comprehensive recommendation framework.
 
-## How to Run the Project
-
-1. Initiate by cloning this repository to your local machine.
-2. Proceed to install the necessary software packages.
-3. Launch the Streamlit application using the following command: `streamlit run app.py`.
-
-For an in-depth guide, please refer to the `Installation` section.
-
 ## Results
 
 The performance and efficiency of the recommender systems have been meticulously assessed using key metrics such as RMSE (Root Mean Square Error), Precision@k, and Recall@k. Preliminary results underscore the effectiveness and precision of the developed algorithms.
